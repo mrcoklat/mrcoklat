@@ -25,7 +25,7 @@ Drop a DM on LinkedIn or email me via thecokl4t@gmail.com
   <li>🐈 No cat but likes them</li>
   <li>☕ Prefer tea, coffee only morning</li>
   <li>📖 Currently manga phase (anime->manga or manhwa->novel)</li>
-  <li>💡 From my idea & strugle, will build stuff that helps people</li>
+  <li>💡 From my idea & struggle, will build stuff that helps people</li>
 </ul>
 
 <!--
