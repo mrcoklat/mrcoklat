@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I`m Mr Coklat, a web developer from Malaysia.
+I`m Ajimar, a web developer from Malaysia.
 
 Currently freelance building administration system which automate company workflow.
 
