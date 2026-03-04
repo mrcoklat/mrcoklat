@@ -4,7 +4,7 @@ I`m Ajimar, a web developer from Malaysia.
 
 Currently freelance building administration system which automate company workflow.
 
-Drop a DM on [LinkedIn](https://www.linkedin.com/in/ajimar-hatta/"target="_blank) or email me via ajimarbinhatta@gmail.com
+Drop a DM on [LinkedIn](https://www.linkedin.com/in/ajimar-hatta/"target="_blank.) or email me via ajimarbinhatta@gmail.com
 
 <hr>
 
