@@ -4,7 +4,7 @@ I`m Ajimar, a web developer from Malaysia.
 
 Currently freelance building administration system which automate company workflow.
 
-Drop a DM on LinkedIn or email me via thecokl4t@gmail.com
+Drop a DM on LinkedIn or email me via ajimarbinhatta@gmail.com
 
 <hr>
 
